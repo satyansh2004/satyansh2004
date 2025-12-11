@@ -1,36 +1,35 @@
-# 👋 Hi, I'm Satyansh
+# ▣ Satyansh
 
-I build things across the stack — from efficient system-level programs to full-fledged web applications.  
-Driven by engineering, startups, and the pursuit of mastering every layer of modern tech.
-
----
-
-## 🚀 What I Work On
-- **Full-Stack Web Development** – modern frontends, scalable backends, APIs, and cloud-native workflows.  
-- **Systems & C Programming** – exploring memory, performance, firmware-level logic, and OS fundamentals.  
-- **Engineering x Startups** – experimenting with product ideas, automation tools, and SaaS concepts.
+Currently a computer science student — deep in my learning and building phase — exploring everything from system-level programming to full-stack engineering. Focused on becoming a strong engineer capable of turning ideas into real products.
 
 ---
 
-## 🛠️ Tech & Tools
+## ⚡ Focus Areas
+- Full-stack web development — from UI engineering to backend logic and deployment  
+- Systems programming in C — performance, memory, firmware, OS internals  
+- Early-stage product thinking — building tools, utilities, and tech-driven solutions  
+
+---
+
+## 🔧 Tech & Toolkit
 **Languages:** JavaScript, Python, C  
-**Frontend:** React, Tailwind, HTML5/CSS3  
+**Frontend:** React, Tailwind, HTML/CSS  
 **Backend:** Node.js, Express, MongoDB  
-**Other Interests:** AI/ML, system design, developer tooling, and low-level engineering
+**Interests:** AI/ML, system design, automation tooling, engineering fundamentals  
 
 ---
 
-## 📈 Current Focus
-- Building real-world apps, dashboards, and high-utility projects  
-- Sharpening algorithms, DSA, and core CS understanding  
-- Preparing myself to launch scalable software and SaaS products in the future
+## ◆ What I'm Doing Right Now
+- Crafting real-world apps and improving my technical depth  
+- Strengthening DSA, core CS, and hands-on engineering foundations  
+- Experimenting with product ideas and preparing for future SaaS launches  
 
 ---
 
-## 🌐 Connect
-- **X (Twitter):** https://x.com/satyansh2004  
-- **GitHub Projects:** Dive into my repos to see what I'm currently building, breaking, and improving.
+## ✦ Connect
+- **X:** https://x.com/satyansh2004  
+- **GitHub:** Explore my projects to see what I’m building and iterating on  
 
 ---
 
-Thanks for visiting — always open to collaborations, ideas, and engineering discussions.
+Always open to collaboration and technical discussions — thanks for stopping by.
