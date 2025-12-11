@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Satyansh
 
-<!--
-**satyansh2004/satyansh2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things across the stack — from efficient system-level programs to full-fledged web applications.  
+Driven by engineering, startups, and the pursuit of mastering every layer of modern tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Work On
+- **Full-Stack Web Development** – modern frontends, scalable backends, APIs, and cloud-native workflows.  
+- **Systems & C Programming** – exploring memory, performance, firmware-level logic, and OS fundamentals.  
+- **Engineering x Startups** – experimenting with product ideas, automation tools, and SaaS concepts.
+
+---
+
+## 🛠️ Tech & Tools
+**Languages:** JavaScript, Python, C  
+**Frontend:** React, Tailwind, HTML5/CSS3  
+**Backend:** Node.js, Express, MongoDB  
+**Other Interests:** AI/ML, system design, developer tooling, and low-level engineering
+
+---
+
+## 📈 Current Focus
+- Building real-world apps, dashboards, and high-utility projects  
+- Sharpening algorithms, DSA, and core CS understanding  
+- Preparing myself to launch scalable software and SaaS products in the future
+
+---
+
+## 🌐 Connect
+- **X (Twitter):** https://x.com/satyansh2004  
+- **GitHub Projects:** Dive into my repos to see what I'm currently building, breaking, and improving.
+
+---
+
+Thanks for visiting — always open to collaborations, ideas, and engineering discussions.
