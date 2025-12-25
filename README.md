@@ -5,17 +5,17 @@ Currently a computer science student — deep in my learning and building phase 
 ---
 
 ## ⚡ Focus Areas
-- Full-stack web development — from UI engineering to backend logic and deployment  
+- Full-stack web development — Mainly focused on backend logic and deployment  
 - Systems programming in C — performance, memory, firmware, OS internals  
 - Early-stage product thinking — building tools, utilities, and tech-driven solutions  
 
 ---
 
 ## 🔧 Tech & Toolkit
-**Languages:** JavaScript, Python, C  
+**Languages:** JavaScript, C  
 **Frontend:** React, Tailwind, HTML/CSS  
 **Backend:** Node.js, Express, MongoDB  
-**Interests:** AI/ML, system design, automation tooling, engineering fundamentals  
+**Interests:** System design, automation tooling, engineering fundamentals, hardware  
 
 ---
 
