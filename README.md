@@ -1,7 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Full-stack web projects (React, Node.js, MongoDB)<br>Small SaaS & automation tools for creators<br>Strengthening DSA & problem-solving skills<br><br>👯 I’m looking to collaborate on<br><br>Open-source JavaScript / web projects<br>SaaS tools, dashboards, and productivity apps<br>Developer tools or creator-focused platforms<br><br>🤝 I’m looking for help with<br><br>System design & scalable backend architecture<br>Real-world SaaS monetization and growth<br>Advanced JavaScript & performance optimization<br><br>🌱 I’m currently learning<br><br>Advanced JavaScript & TypeScript<br>Backend engineering (Node.js, Express, databases)<br>Basics of AI/ML for practical applications<br><br>💬 Ask me about<br><br>JavaScript, web development & frontend basics<br>Building projects from scratch<br>Learning in public & growing as a developer<br><br>⚡ Fun fact<br><br>I love building things from scratch and sharing my progress publicly 🚀
-
-
+# About Me:
+I’m currently working on<br><br>Full-stack web projects (React, Node.js, MongoDB)<br>Small SaaS & automation tools for creators<br>Strengthening DSA & problem-solving skills<br><br>Looking to collaborate on<br><br>Open-source JavaScript / web projects<br>
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyanshchand01@gmail.com) 
 
