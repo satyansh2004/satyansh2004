@@ -75,7 +75,7 @@ const satyansh = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyansh2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=A855F7&icon_color=A855F7&title_color=A855F7"/>
-
+<br><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyansh2004&layout=compact&theme=tokyonight&border_color=A855F7&title_color=A855F7"/>
 
 <br><br>
