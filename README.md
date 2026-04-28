@@ -10,9 +10,9 @@
  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝    ╚═╝╚═╝  ╚═══╝    ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
 ``` -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Satyansh+Chand;Full+Stack+Web+Developer;BTech+Student+%F0%9F%8E%93;Future+Embedded+Systems+Engineer+%F0%9F%94%A7;Building+cool+stuff+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Satyansh+Chand;Full+Stack+Web+Developer;BTech+Student+%F0%9F%8E%93;Future+Embedded+Systems+Engineer" alt="Typing SVG" />
 
-<br/>
+<br><br>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/satyanshchand?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://x.com/satyanshchand/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-satyanshchand.netlify.app-A855F7?style=for-the-badge&logo=netlify&logoColor=white)](https://satyanshchand.netlify.app/)
@@ -34,8 +34,6 @@ const satyansh = {
   nextGoal  : "Embedded Systems",
 };
 ```
-
-<br>
 
 ---
 
@@ -76,6 +74,8 @@ const satyansh = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyansh2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=A855F7&icon_color=A855F7&title_color=A855F7"/>
+
+<br><br>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyansh2004&layout=compact&theme=tokyonight&border_color=A855F7&title_color=A855F7"/>
 
