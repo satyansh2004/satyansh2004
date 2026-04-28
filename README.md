@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=header"/>
 <div align="left">
 
 <!-- ```
@@ -75,14 +76,10 @@ const satyansh = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyansh2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=A855F7&icon_color=A855F7&title_color=A855F7"/>
-<br><br>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyansh2004&layout=compact&theme=tokyonight&border_color=A855F7&title_color=A855F7"/>
 
 <br><br>
-
-</div>
-
-<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyansh2004&theme=tokyonight&border=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak"/>
 
@@ -113,7 +110,7 @@ const satyansh = {
 ## `Roadmap Current`
 
 ```
-[2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2025+]
+[2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026+]
 
   Full Stack Dev  ██████████████████████░░░░  Mastering
   ─────────────────────────────────────────────────────────
