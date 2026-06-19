@@ -120,7 +120,7 @@ const satyansh = {
   Express.js      ██████████████████████░░░░  Solid
   MongoDB         ████████████████████░░░░░░  Getting there
   ─────────────────────────────────────────────────────────
-  Embedded Sys.   ██░░░░░░░░░░░░░░░░░░░░░░░░  Next Quest
+  Embedded Sys.   ███░░░░░░░░░░░░░░░░░░░░░░░  Next Quest
 ```
 
 ---
