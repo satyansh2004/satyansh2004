@@ -1,298 +1,144 @@
 <div align="center">
 
-# SATYANSH CHAND
-
-### Computer Science Student · Embedded Systems in Progress
-
-**C • Linux • ARM • RISC-V • RTOS**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=900&color=7C5CFC&center=true&vCenter=true&width=760&lines=SATYANSH+CHAND;COMPUTER+SCIENCE+STUDENT;ASPIRING+EMBEDDED+SYSTEMS+ENGINEER" alt="Satyansh Chand">
 
 <br>
 
-<a href="https://x.com/satyanshchand">
-  <img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white" alt="X">
-</a>
-<a href="https://satyanshchand.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0B0B0B?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
-</a>
-<a href="mailto:satyanshchand01@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0B0B0B?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://github.com/satyansh2004">
-  <img src="https://img.shields.io/github/followers/satyansh2004?style=flat-square&label=followers&logo=github" alt="Followers">
-</a>
-
-</div>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpYqx/giphy.gif" width="420" alt="Animated coding terminal">
 
 <br>
 
----
-
-<div align="center">
-
-### I like working close to the machine.
-
-I’m a **B.Tech Computer Science student** learning embedded systems by moving downward through the stack —  
-from application code to operating systems, from assembly to registers, and eventually to bare metal.
-
-**The goal:** understand what the computer is actually doing, not just what an API makes it look like.
-
-</div>
-
-<br>
-
-## 01 / CURRENT STATE
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### NOW
-
-```text
-┌────────────────────────────────────┐
-│  BUILDING TOWARD EMBEDDED SYSTEMS │
-├────────────────────────────────────┤
-│                                    │
-│  C               ███████████░░░  │
-│  Linux           ████████░░░░░  │
-│  DSA             █████████░░░░  │
-│  ARM             █████░░░░░░░░  │
-│  RISC-V          ████░░░░░░░░░  │
-│  RTOS            ██░░░░░░░░░░░░  │
-│                                    │
-└────────────────────────────────────┘
-```
-
-</td>
-<td width="50%" valign="top">
-
-### THINKING ABOUT
-
-```text
-→ pointers & memory
-→ processes & syscalls
-→ interrupts & timers
-→ UART / SPI / I²C
-→ DMA & peripherals
-→ bootloaders
-→ kernels & scheduling
-→ debugging at the register level
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 02 / THE STACK I’M BUILDING
-
-<div align="center">
-
-### SOFTWARE
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vim&perline=8" alt="Software skills">
+<code>C</code> &nbsp; <code>LINUX</code> &nbsp; <code>OS</code> &nbsp; <code>ASM</code> &nbsp; <code>RISC-V</code> &nbsp; <code>ARM</code> &nbsp; <code>DSA</code>
 
 <br><br>
 
-### HARDWARE / SYSTEMS
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=8" alt="Hardware skills">
-
-<br><br>
-
-<table>
-<tr>
-<td align="center"><b>Architecture</b><br>ARM · RISC-V</td>
-<td align="center"><b>OS</b><br>Linux · POSIX</td>
-<td align="center"><b>RTOS</b><br>FreeRTOS</td>
-<td align="center"><b>Debug</b><br>GDB · JTAG</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-## 03 / THINGS I’VE BUILT
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### GRAPH MAKER
-
-Interactive data visualization project.
-
-**Focus**
-- visualization
-- data handling
-- browser tooling
-
-🏆 **2nd Prize**
-
-</td>
-<td width="33%" valign="top">
-
-### ADAPT-X
-
-A full-body exoskeleton project with an arm/elbow prototype.
-
-**Focus**
-- Arduino
-- IMU sensors
-- motor control
-- human-machine interaction
-
-</td>
-<td width="33%" valign="top">
-
-### WALKING AID
-
-AI-powered assistive vision prototype.
-
-**Focus**
-- object detection
-- distance estimation
-- OCR
-- speech feedback
-- event-driven system design
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-### RECENT SYSTEMS WORK
-
-**e-Yantra 2026–27** · Niti Vahan · Khojo Drone  
-ROS 2 · MuJoCo · PID control · computer vision · simulation
-
-</div>
-
-<br>
-
-## 04 / WHAT I’M LEARNING THE HARD WAY
-
-> **Abstractions are useful. Understanding what is underneath them is better.**
-
-```text
-Application
-    │
-    ▼
-Libraries / APIs
-    │
-    ▼
-Operating System
-    │
-    ├── processes
-    ├── virtual memory
-    ├── system calls
-    └── scheduling
-    │
-    ▼
-Architecture
-    │
-    ├── ISA
-    ├── registers
-    ├── caches
-    └── interrupts
-    │
-    ▼
-Firmware / Bare Metal
-    │
-    ├── peripherals
-    ├── timers
-    ├── DMA
-    └── memory mapped I/O
-    │
-    ▼
-Silicon
-```
-
-<br>
-
-## 05 / CURRENT PROJECTS & EXPERIMENTS
-
-| Area | What I'm doing |
-| :-- | :-- |
-| **RISC-V** | Assembly, ABI, calling conventions, emulator experiments |
-| **Linux** | Shell, processes, system calls, debugging and internals |
-| **Embedded C** | Pointers, memory, registers and hardware-oriented programming |
-| **ROS 2** | Robotics simulation, control loops and sensor-driven systems |
-| **RTOS** | Learning tasks, scheduling, timing and synchronization |
-| **Computer Vision** | Practical perception systems for robotics / assistive technology |
-
-<br>
-
-## 06 / GITHUB SIGNAL
-
-<div align="center">
-
-<a href="https://github.com/satyansh2004">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=satyansh2004&show_icons=true&hide_border=true&bg_color=00000000&title_color=111111&text_color=444444&icon_color=111111&include_all_commits=true" alt="GitHub statistics">
-</a>
-<a href="https://github.com/satyansh2004">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyansh2004&layout=compact&hide_border=true&bg_color=00000000&title_color=111111&text_color=444444&langs_count=7" alt="Top languages">
-</a>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=satyansh2004&hide_border=true&background=FFFFFF00&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=444444&currStreakNum=111111&sideNums=111111&dates=777777" alt="GitHub streak">
-
-<br><br>
-
-[![Satyansh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyansh2004&bg_color=ffffff00&color=111111&line=111111&point=111111&area=true&hide_border=true)](https://github.com/satyansh2004)
-
-</div>
-
-<br>
-
-## 07 / 2026 → NEXT
-
-```text
-[■■■■■■■■■■■■■■■■■■□□□□]  Embedded C
-[■■■■■■■■■■■■□□□□□□□□□□]  Linux Internals
-[■■■■■■■■■□□□□□□□□□□□□□]  ARM
-[■■■■■■□□□□□□□□□□□□□□□]  RISC-V
-[■■□□□□□□□□□□□□□□□]  RTOS
-[■■□□□□□□□□□□□□□□□]  Bare Metal
-[■□□□□□□□□□□□□□□□]  Custom Kernel / Bootloader
-```
-
-### The milestones
-
-**01** — Blink an STM32 without hiding behind a HAL  
-**02** — Trace a syscall from userspace to kernel  
-**03** — Write a tiny RISC-V emulator in C  
-**04** — Build a useful FreeRTOS system  
-**05** — Boot something I wrote myself
-
-<br>
-
----
-
-<div align="center">
-
-### OPEN TO
-
-**Embedded internships · Robotics · Open Source · Systems projects**
-
-<br>
-
-<a href="https://x.com/satyanshchand">X</a>
-&nbsp;·&nbsp;
 <a href="https://github.com/satyansh2004">GitHub</a>
-&nbsp;·&nbsp;
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://satyanshchand.netlify.app/">Portfolio</a>
-&nbsp;·&nbsp;
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://x.com/satyanshchand">X</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="mailto:satyanshchand01@gmail.com">Email</a>
 
+</div>
+
+---
+
+## 01 / ABOUT
+
+~~~text
+name       : Satyansh Chand
+degree     : B.Tech Computer Science & Engineering
+college    : Buddha Institute of Technology
+location   : India
+direction  : Embedded Systems
+foundation : C · Linux · OS · Assembly · DSA
+~~~
+
+I am a Computer Science student focused on understanding systems from the
+inside out — memory, processes, instructions, registers, operating systems,
+and the hardware underneath them.
+
+My approach is simple:
+
+        learn the abstraction
+              ↓
+        understand underneath
+              ↓
+        build from fundamentals
+
+---
+
+## 02 / LEARNING
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Animated coding">
+
 <br><br>
 
-<sub>Built while learning how software becomes signals.</sub>
+| C | Linux | Operating Systems | Assembly |
+|:---:|:---:|:---:|:---:|
+| memory | shell | processes | instructions |
+| pointers | tools | scheduling | registers |
+| data structures | syscalls | virtual memory | ABI |
+
+| RISC-V | ARM | DSA |
+|:---:|:---:|:---:|
+| ISA | architecture | algorithms |
+| assembly | registers | problem solving |
+| emulator concepts | low-level programming | complexity |
+
+</div>
+
+---
+
+## 03 / CURRENT STATE
+
+<div align="center">
+
+~~~text
+C & MEMORY          ███████████████░░░░░░░   60%
+LINUX               ████████████░░░░░░░░░   45%
+OPERATING SYSTEMS   █████████░░░░░░░░░░░░   35%
+DSA                 █████████████░░░░░░░░   50%
+ARM ASSEMBLY        ██████░░░░░░░░░░░░░░░   25%
+RISC-V              █████░░░░░░░░░░░░░░░░   20%
+RTOS                ███░░░░░░░░░░░░░░░░░░   12%
+BARE METAL          ██░░░░░░░░░░░░░░░░░░░   10%
+~~~
+
+<code>learning → experimenting → debugging → understanding</code>
+
+</div>
+
+---
+
+## 04 / THE DIRECTION
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=FROM+CODE+TO+MACHINE;FROM+PROCESS+TO+INSTRUCTION;FROM+INSTRUCTION+TO+REGISTER;FROM+REGISTER+TO+SILICON" alt="Learning direction">
+
+<br><br>
+
+~~~text
+Application
+    ↓
+Operating System
+    ↓
+Architecture
+    ↓
+Assembly
+    ↓
+Firmware
+    ↓
+Hardware
+~~~
+
+**The goal is not just to use the machine.
+The goal is to understand it.**
+
+</div>
+
+---
+
+<div align="center">
+
+### SATYANSH CHAND
+
+Computer Science Student · Embedded Systems Learner
+
+<br>
+
+<a href="https://github.com/satyansh2004">github.com/satyansh2004</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://satyanshchand.netlify.app/">satyanshchand.netlify.app</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:satyanshchand01@gmail.com">satyanshchand01@gmail.com</a>
+
+<br><br>
+
+<sub>Learning the layer below the abstraction.</sub>
 
 </div>
