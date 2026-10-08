@@ -1,159 +1,298 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=header"/>
-<div align="left">
-
-<!-- ```
- ██████╗ ██████╗ ██████╗ ███████╗    ██╗███╗   ██╗    ██████╗ ██████╗  ██████╗  ██████╗ ██████╗ ███████╗███████╗███████╗
-██╔════╝██╔═══██╗██╔══██╗██╔════╝    ██║████╗  ██║    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝ ██╔══██╗██╔════╝██╔════╝██╔════╝
-██║     ██║   ██║██║  ██║█████╗      ██║██╔██╗ ██║    ██████╔╝██████╔╝██║   ██║██║  ███╗██████╔╝█████╗  ███████╗███████╗
-██║     ██║   ██║██║  ██║██╔══╝      ██║██║╚██╗██║    ██╔═══╝ ██╔══██╗██║   ██║██║   ██║██╔══██╗██╔══╝  ╚════██║╚════██║
-╚██████╗╚██████╔╝██████╔╝███████╗    ██║██║ ╚████║    ██║     ██║  ██║╚██████╔╝╚██████╔╝██║  ██║███████╗███████║███████║
- ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝    ╚═╝╚═╝  ╚═══╝    ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
-``` -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Satyansh+Chand;Full+Stack+Web+Developer;BTech+Student+%F0%9F%8E%93;Future+Embedded+Systems+Engineer" alt="Typing SVG" />
-
-<br><br>
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/satyanshchand?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://x.com/satyanshchand/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-satyanshchand.netlify.app-A855F7?style=for-the-badge&logo=netlify&logoColor=white)](https://satyanshchand.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-satyanshchand01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyanshchand01@gmail.com)
-
-<!-- <img src="https://komarev.com/ghpvc/?username=satyansh2004&style=for-the-badge&color=A855F7" alt="Profile Views"/> -->
-
-</div>
-
----
-
-## `Who am I`
-
-```ts
-const satyansh = {
-  role      : "Full Stack Web Developer",
-  education : "B.Tech Student",
-  location  : "India 🇮🇳",
-  nextGoal  : "Embedded Systems",
-};
-```
-
----
-
-## `Tech Stack`
-
-<div align="left">
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### On the Radar
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-Next_Up-A855F7?style=for-the-badge&logo=arduino&logoColor=white)
-![C](https://img.shields.io/badge/C-Learning_Soon-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-</div>
-
----
-
-## `Git Log Stats`
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyansh2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=A855F7&icon_color=A855F7&title_color=A855F7"/>
+# SATYANSH CHAND
 
-<br><br>
+### Computer Science Student · Embedded Systems in Progress
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyansh2004&layout=compact&theme=tokyonight&border_color=A855F7&title_color=A855F7"/>
+**C • Linux • ARM • RISC-V • RTOS**
 
-<br><br>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=satyansh2004&theme=tokyonight&border=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## `Contribution Graph`
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=satyansh2004&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## `Achievements Unlocked`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=satyansh2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## `Roadmap Current`
-
-```
-[2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026+]
-
-  Full Stack Dev  ██████████████████████░░░░  Mastering
-  ─────────────────────────────────────────────────────────
-  JavaScript      ████████████████████████░░  Expert
-  TypeScript      ████████████████████░░░░░░  Advancing
-  React           █████████████████████░░░░░  Proficient
-  Express.js      ██████████████████████░░░░  Solid
-  MongoDB         ████████████████████░░░░░░  Getting there
-  ─────────────────────────────────────────────────────────
-  Embedded Sys.   ███░░░░░░░░░░░░░░░░░░░░░░░  Next Quest
-```
-
----
-
-## `Connect With Me`
-
-<div align="center">
-
-<a href="https://x.com/satyanshchand/">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://x.com/satyanshchand">
+  <img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white" alt="X">
 </a>
-&nbsp;
 <a href="https://satyanshchand.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=safari&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-0B0B0B?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
-&nbsp;
 <a href="mailto:satyanshchand01@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-0B0B0B?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </a>
-&nbsp;
-<a href="https://github.com/jhasourav07">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/satyansh2004">
+  <img src="https://img.shields.io/github/followers/satyansh2004?style=flat-square&label=followers&logo=github" alt="Followers">
 </a>
 
-<br/><br/>
+</div>
 
-```
-╔═══════════════════════════════════════════════╗
-║   Open to collaborations, internships &       ║
-║   open source contributions!                  ║
-╚═══════════════════════════════════════════════╝
+<br>
+
+---
+
+<div align="center">
+
+### I like working close to the machine.
+
+I’m a **B.Tech Computer Science student** learning embedded systems by moving downward through the stack —  
+from application code to operating systems, from assembly to registers, and eventually to bare metal.
+
+**The goal:** understand what the computer is actually doing, not just what an API makes it look like.
+
+</div>
+
+<br>
+
+## 01 / CURRENT STATE
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### NOW
+
+```text
+┌────────────────────────────────────┐
+│  BUILDING TOWARD EMBEDDED SYSTEMS │
+├────────────────────────────────────┤
+│                                    │
+│  C               ███████████░░░  │
+│  Linux           ████████░░░░░  │
+│  DSA             █████████░░░░  │
+│  ARM             █████░░░░░░░░  │
+│  RISC-V          ████░░░░░░░░░  │
+│  RTOS            ██░░░░░░░░░░░░  │
+│                                    │
+└────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=footer"/>
+</td>
+<td width="50%" valign="top">
+
+### THINKING ABOUT
+
+```text
+→ pointers & memory
+→ processes & syscalls
+→ interrupts & timers
+→ UART / SPI / I²C
+→ DMA & peripherals
+→ bootloaders
+→ kernels & scheduling
+→ debugging at the register level
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 02 / THE STACK I’M BUILDING
+
+<div align="center">
+
+### SOFTWARE
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vim&perline=8" alt="Software skills">
+
+<br><br>
+
+### HARDWARE / SYSTEMS
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=8" alt="Hardware skills">
+
+<br><br>
+
+<table>
+<tr>
+<td align="center"><b>Architecture</b><br>ARM · RISC-V</td>
+<td align="center"><b>OS</b><br>Linux · POSIX</td>
+<td align="center"><b>RTOS</b><br>FreeRTOS</td>
+<td align="center"><b>Debug</b><br>GDB · JTAG</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## 03 / THINGS I’VE BUILT
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### GRAPH MAKER
+
+Interactive data visualization project.
+
+**Focus**
+- visualization
+- data handling
+- browser tooling
+
+🏆 **2nd Prize**
+
+</td>
+<td width="33%" valign="top">
+
+### ADAPT-X
+
+A full-body exoskeleton project with an arm/elbow prototype.
+
+**Focus**
+- Arduino
+- IMU sensors
+- motor control
+- human-machine interaction
+
+</td>
+<td width="33%" valign="top">
+
+### WALKING AID
+
+AI-powered assistive vision prototype.
+
+**Focus**
+- object detection
+- distance estimation
+- OCR
+- speech feedback
+- event-driven system design
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### RECENT SYSTEMS WORK
+
+**e-Yantra 2026–27** · Niti Vahan · Khojo Drone  
+ROS 2 · MuJoCo · PID control · computer vision · simulation
+
+</div>
+
+<br>
+
+## 04 / WHAT I’M LEARNING THE HARD WAY
+
+> **Abstractions are useful. Understanding what is underneath them is better.**
+
+```text
+Application
+    │
+    ▼
+Libraries / APIs
+    │
+    ▼
+Operating System
+    │
+    ├── processes
+    ├── virtual memory
+    ├── system calls
+    └── scheduling
+    │
+    ▼
+Architecture
+    │
+    ├── ISA
+    ├── registers
+    ├── caches
+    └── interrupts
+    │
+    ▼
+Firmware / Bare Metal
+    │
+    ├── peripherals
+    ├── timers
+    ├── DMA
+    └── memory mapped I/O
+    │
+    ▼
+Silicon
+```
+
+<br>
+
+## 05 / CURRENT PROJECTS & EXPERIMENTS
+
+| Area | What I'm doing |
+| :-- | :-- |
+| **RISC-V** | Assembly, ABI, calling conventions, emulator experiments |
+| **Linux** | Shell, processes, system calls, debugging and internals |
+| **Embedded C** | Pointers, memory, registers and hardware-oriented programming |
+| **ROS 2** | Robotics simulation, control loops and sensor-driven systems |
+| **RTOS** | Learning tasks, scheduling, timing and synchronization |
+| **Computer Vision** | Practical perception systems for robotics / assistive technology |
+
+<br>
+
+## 06 / GITHUB SIGNAL
+
+<div align="center">
+
+<a href="https://github.com/satyansh2004">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=satyansh2004&show_icons=true&hide_border=true&bg_color=00000000&title_color=111111&text_color=444444&icon_color=111111&include_all_commits=true" alt="GitHub statistics">
+</a>
+<a href="https://github.com/satyansh2004">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyansh2004&layout=compact&hide_border=true&bg_color=00000000&title_color=111111&text_color=444444&langs_count=7" alt="Top languages">
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=satyansh2004&hide_border=true&background=FFFFFF00&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=444444&currStreakNum=111111&sideNums=111111&dates=777777" alt="GitHub streak">
+
+<br><br>
+
+[![Satyansh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyansh2004&bg_color=ffffff00&color=111111&line=111111&point=111111&area=true&hide_border=true)](https://github.com/satyansh2004)
+
+</div>
+
+<br>
+
+## 07 / 2026 → NEXT
+
+```text
+[■■■■■■■■■■■■■■■■■■□□□□]  Embedded C
+[■■■■■■■■■■■■□□□□□□□□□□]  Linux Internals
+[■■■■■■■■■□□□□□□□□□□□□□]  ARM
+[■■■■■■□□□□□□□□□□□□□□□]  RISC-V
+[■■□□□□□□□□□□□□□□□]  RTOS
+[■■□□□□□□□□□□□□□□□]  Bare Metal
+[■□□□□□□□□□□□□□□□]  Custom Kernel / Bootloader
+```
+
+### The milestones
+
+**01** — Blink an STM32 without hiding behind a HAL  
+**02** — Trace a syscall from userspace to kernel  
+**03** — Write a tiny RISC-V emulator in C  
+**04** — Build a useful FreeRTOS system  
+**05** — Boot something I wrote myself
+
+<br>
+
+---
+
+<div align="center">
+
+### OPEN TO
+
+**Embedded internships · Robotics · Open Source · Systems projects**
+
+<br>
+
+<a href="https://x.com/satyanshchand">X</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/satyansh2004">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://satyanshchand.netlify.app/">Portfolio</a>
+&nbsp;·&nbsp;
+<a href="mailto:satyanshchand01@gmail.com">Email</a>
+
+<br><br>
+
+<sub>Built while learning how software becomes signals.</sub>
 
 </div>
