@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpYqx/giphy.gif" width="420" alt="Animated coding terminal">
+<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="420" alt="Animated coding terminal">
 
 <br>
 
