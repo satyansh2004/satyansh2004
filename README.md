@@ -39,8 +39,6 @@ I am a Computer Science student focused on understanding systems from the
 inside out — memory, processes, instructions, registers, operating systems,
 and the hardware underneath them.
 
-My approach is simple:
-
         learn the abstraction
               ↓
         understand underneath
@@ -57,17 +55,11 @@ My approach is simple:
 
 <br><br>
 
-| C | Linux | Operating Systems | Assembly |
-|:---:|:---:|:---:|:---:|
-| memory | shell | processes | instructions |
-| pointers | tools | scheduling | registers |
-| data structures | syscalls | virtual memory | ABI |
-
-| RISC-V | ARM | DSA |
-|:---:|:---:|:---:|
-| ISA | architecture | algorithms |
-| assembly | registers | problem solving |
-| emulator concepts | low-level programming | complexity |
+| C | Linux | OS | Assembly | RISC-V | ARM | DSA |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| memory | shell | processes | instructions | ISA | architecture | algorithms |
+| pointers | syscalls | scheduling | registers | assembly | registers | problem solving |
+| data structures | tooling | virtual memory | ABI | emulator | low-level | complexity |
 
 </div>
 
