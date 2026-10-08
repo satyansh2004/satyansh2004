@@ -6,7 +6,7 @@
 
 <code>C</code> &nbsp; <code>LINUX</code> &nbsp; <code>OS</code> &nbsp; <code>ASM</code> &nbsp; <code>RISC-V</code> &nbsp; <code>ARM</code> &nbsp; <code>DSA</code>
 
-<br><br>
+<br>
 
 <a href="https://github.com/satyansh2004">GitHub</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -104,7 +104,7 @@ Computer Science Student · Embedded Systems Learner
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="mailto:satyanshchand01@gmail.com">satyanshchand01@gmail.com</a>
 
-<br><br>
+<br>
 
 <sub>Learning the layer below the abstraction.</sub>
 
