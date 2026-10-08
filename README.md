@@ -4,17 +4,11 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="420" alt="Animated coding terminal">
-
-<br>
-
 <code>C</code> &nbsp; <code>LINUX</code> &nbsp; <code>OS</code> &nbsp; <code>ASM</code> &nbsp; <code>RISC-V</code> &nbsp; <code>ARM</code> &nbsp; <code>DSA</code>
 
 <br><br>
 
 <a href="https://github.com/satyansh2004">GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://satyanshchand.netlify.app/">Portfolio</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://x.com/satyanshchand">X</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -34,17 +28,6 @@ location   : India
 direction  : Embedded Systems
 foundation : C · Linux · OS · Assembly · DSA
 ~~~
-
-I am a Computer Science student focused on understanding systems from the
-inside out — memory, processes, instructions, registers, operating systems,
-and the hardware underneath them.
-
-        learn the abstraction
-              ↓
-        understand underneath
-              ↓
-        build from fundamentals
-
 ---
 
 ## 02 / LEARNING
@@ -80,8 +63,6 @@ RTOS                ███░░░░░░░░░░░░░░░░░
 BARE METAL          ██░░░░░░░░░░░░░░░░░░░   10%
 ~~~
 
-<code>learning → experimenting → debugging → understanding</code>
-
 </div>
 
 ---
@@ -108,9 +89,6 @@ Firmware
 Hardware
 ~~~
 
-**The goal is not just to use the machine.
-The goal is to understand it.**
-
 </div>
 
 ---
@@ -124,8 +102,6 @@ Computer Science Student · Embedded Systems Learner
 <br>
 
 <a href="https://github.com/satyansh2004">github.com/satyansh2004</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://satyanshchand.netlify.app/">satyanshchand.netlify.app</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="mailto:satyanshchand01@gmail.com">satyanshchand01@gmail.com</a>
 
